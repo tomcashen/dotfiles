@@ -15,7 +15,7 @@
   <property name="misc-recursive-permissions" type="string" value="THUNAR_RECURSIVE_PERMISSIONS_ALWAYS"/>
   <property name="misc-exec-shell-scripts-by-default" type="bool" value="false"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_50_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="165,50,169,50,50,85,70,299,407,50,50,65,113,350"/>
+  <property name="last-details-view-column-widths" type="string" value="165,50,169,50,50,85,70,299,264,50,50,65,113,350"/>
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
   <property name="last-compact-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>

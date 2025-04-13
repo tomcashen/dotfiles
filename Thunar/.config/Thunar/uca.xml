@@ -394,4 +394,20 @@
 	<patterns>*</patterns>
 	<video-files/>
 </action>
+<action>
+	<icon>upload</icon>
+	<name>Stowify</name>
+	<submenu></submenu>
+	<unique-id>1744520073957216-1</unique-id>
+	<command>/home/tom/.local/bin/stowify.sh %F %f</command>
+	<description>Add files to dotfile repo (see man stowify)</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
 </actions>
