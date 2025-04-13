@@ -1,0 +1,58 @@
+[window]
+	startup_mode = "Maximized"
+	title = "Alacritty"
+	dynamic_title = true 
+	decorations_theme_variant = "None"
+	decorations = "None"
+	opacity = 0.7
+	blur = true
+	padding = { x = 12, y = 12 }
+	dynamic_padding = true
+	dimensions = { columns = 120, lines = 40 }
+
+[scrolling]
+	history = 100000
+	multiplier = 3
+
+[font]
+	size = 14
+
+	[font.bold]
+	family = "Hack Nerd Font Mono"
+	style = "Bold"
+
+	[font.bold_italic]
+	family = "Hack Nerd Font Mono"
+	style = "Bold Italic"
+
+	[font.italic]
+	family = "Hack Nerd Font Mono"
+
+	[font.normal]
+	family = "Hack Nerd Font Mono"
+	style = "Regular"
+
+[bell]
+	animation             = "EaseOutQuart"
+	duration              = 500
+	color                 = "#C0C5CE"
+	command               = { program = "notify-send", args = ["--icon=/usr/share/icons/kora/apps/scalable/Alacritty.svg","Alacritty Bell",] }
+
+[selection]
+	semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+	save_to_clipboard = false
+
+[cursor]
+	style = { shape = "Block", blinking = "Off" }
+	unfocused_hollow = true
+	thickness = 0.15
+[mouse]
+	hide_when_typing = false
+	bindings = [
+	{ mouse = "Back" , action = "Quit" },
+	{ mouse = "Right", mods = "Control", action = "Copy" },
+	]
+
+[general]
+	live_config_reload = true
+	import = ["~/.config/alacritty/themes/Dkeg - colorstar.toml"]

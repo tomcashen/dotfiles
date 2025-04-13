@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=YouTube
+Exec=/opt/thorium-browser/thorium-browser --profile-directory=Default --app-id=agimnkijcaahngcdmfeangaknmldooml
+Icon=thorium-agimnkijcaahngcdmfeangaknmldooml-Default
+StartupWMClass=youtube
+Actions=Explore;Subscriptions
+X-XFCE-Source=file:///home/tom/.local/share/applications/thorium-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+
+[Desktop Action Explore]
+Name=Explore
+Exec=/opt/thorium-browser/thorium-browser --profile-directory=Default --app-id=agimnkijcaahngcdmfeangaknmldooml "--app-launch-url-for-shortcuts-menu-item=https://www.youtube.com/feed/explore?feature=app_shortcuts"
+
+[Desktop Action Subscriptions]
+Name=Subscriptions
+Exec=/opt/thorium-browser/thorium-browser --profile-directory=Default --app-id=agimnkijcaahngcdmfeangaknmldooml "--app-launch-url-for-shortcuts-menu-item=https://www.youtube.com/feed/subscriptions?feature=app_shortcuts"

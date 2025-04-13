@@ -1,0 +1,1 @@
+pandoc -f csv -t html firefox_logins.csv

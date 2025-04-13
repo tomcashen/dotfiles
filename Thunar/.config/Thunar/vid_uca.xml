@@ -1,0 +1,159 @@
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To bl</name>
+	<unique-id>1616434771945238-1</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/bl</command>
+	<description>Move files to bl</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To cl</name>
+	<unique-id>1616434771945238-2</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/cl</command>
+	<description>Move files to cl</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To db</name>
+	<unique-id>1616434771945238-3</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/db</command>
+	<description>Move files to db</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To ef</name>
+	<unique-id>1616434771945238-4</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ef</command>
+	<description>Move files to ef</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To ex</name>
+	<unique-id>1616434771945238-5</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ex</command>
+	<description>Move files to ex</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To md</name>
+	<unique-id>1616434771945238-6</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/md</command>
+	<description>Move files to md</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To mv</name>
+	<unique-id>1616434771945238-7</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/mv</command>
+	<description>Move files to mv</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To nd</name>
+	<unique-id>1616434771945238-8</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/nd</command>
+	<description>Move files to nd</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To pl</name>
+	<unique-id>1616434771945238-9</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/pl</command>
+	<description>Move files to pl</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To PR</name>
+	<unique-id>1616434771945239-1</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/PR</command>
+	<description>Move files to PR</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To ps</name>
+	<unique-id>1616434771945239-2</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ps</command>
+	<description>Move files to ps</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To ss</name>
+	<unique-id>1616434771945239-3</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ss</command>
+	<description>Move files to ss</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To st</name>
+	<unique-id>1616434771945239-4</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/st</command>
+	<description>Move files to st</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To us</name>
+	<unique-id>1616434771945239-5</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/us</command>
+	<description>Move files to us</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To vy</name>
+	<unique-id>1616434771945239-6</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/vy</command>
+	<description>Move files to vy</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To yg</name>
+	<unique-id>1616434771945239-7</unique-id>
+	<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/yg</command>
+	<description>Move files to yg</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>

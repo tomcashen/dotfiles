@@ -1,0 +1,807 @@
+{
+	"file_history":
+	[
+		"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/installation_instructions.txt",
+		"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/src/main.rs",
+		"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/stabilize.destop",
+		"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/PKGBUILD",
+		"/home/tom/dotfiles-bootstrap.sh",
+		"/home/tom/dotfiles/dotfiles-config-bootstrap.sh",
+		"/home/tom/dotfiles/stowify.sh",
+		"/home/tom/dotfiles/man/stowify.1",
+		"/home/tom/Linux-G15-Daemon-Logitech-G110-/g15daemon-1.9.5.3/Documentation/README.client_devel",
+		"/home/tom/warning.txt",
+		"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/install.sh",
+		"/run/media/tom/Storage/install/github-token.txt",
+		"/home/tom/Downloads/PKGBUILD",
+		"/home/tom/.bashrc",
+		"/home/tom/.bashrc-personal",
+		"/home/tom/.xbindkeysrc",
+		"/home/tom/.local/bin/GTK4-Stabilizer/install-stabilize.sh",
+		"/home/tom/.local/bin/GTK4-Stabilizer/StabilizePrompt.txt",
+		"/home/tom/.local/bin/stabilize.c",
+		"/home/tom/.local/bin/GTK4-Stabilizer/I want to build a GTK4 video stabilization app in.txt",
+		"/home/tom/.local/bin/GTK4-Stabilizer/main.c",
+		"/home/tom/.local/bin/GTK4-Stabilizer/stabilize.c",
+		"/home/tom/.local/bin/GTK4-Stabilizer/stabilize.h",
+		"/home/tom/.local/bin/GTK4-Stabilizer/utils.c",
+		"/home/tom/.local/bin/GTK4-Stabilizer/utils.h",
+		"/home/tom/.local/bin/GTK4-Stabilizer/install.sh",
+		"/home/tom/.local/bin/GTK4-Stabilizer/gtk4-stabilizer.desktop",
+		"/home/tom/programming/stabilize/gtk4_stabilizer/src/gtk4_stabilizer.c",
+		"/home/tom/.local/bin/GTK4-Stabilizer/install-instructions.txt",
+		"/home/tom/.local/share/applications/gtk4-stabilize.desktop",
+		"/home/tom/.local/bin/GTK4-Stabilizer/gtk4_stabilize.c",
+		"/home/tom/.local/bin/toggle-touchpad.sh",
+		"/home/tom/.config/alacritty/alacritty.toml",
+		"/home/tom/.local/bin/stable.sh",
+		"/home/tom/.local/bin/stabilize-zenity.c",
+		"/home/tom/.local/bin/stabilize-gtk.c",
+		"/mnt/870EVO500/nomad/nomad.txt",
+		"/mnt/870EVO500/Collect/vd/Big butt under a torn jeans skirt - watch on VoyeurHit.com. .trf",
+		"/home/tom/.local/bin/gtk4_stabilize.c",
+		"/home/tom/.local/share/applications/FFPWA-01JMK8NAXTR0KVQAFB94HXH424.desktop",
+		"/home/tom/.local/bin/gtk4_stabilizer/stabilize.c",
+		"/home/tom/.local/bin/gtk4_stabilizer/main.c",
+		"/home/tom/.local/bin/gtk4_stabilizer/gtk4_stabilize.c",
+		"/home/tom/.local/bin/gtk4_stabilizer/PKGBUILD",
+		"/home/tom/Videos/363K views · 3.5K reactions ｜ Sooo pretty girl slingshot ride #viralreelschallenge #foryoupage #kimkardashian #MeganFox #margotrobbie #JenniferLawrence #video #slingshot #Netflix #viralvideos ｜ Saba J-584342337956533.trf",
+		"/home/tom/.local/bin/stable1.sh",
+		"/home/tom/.local/bin/pics",
+		"/home/tom/.local/bin/toggle-touchpad.c",
+		"/home/tom/.config/alacritty/themes/Ashes.dark.toml",
+		"/home/tom/.config/feh/keys",
+		"/home/tom/.config/feh/buttons",
+		"/home/tom/.config/mpv/mpv-default-options.txt",
+		"/home/tom/.config/mpv/mpv.conf.example",
+		"/home/tom/.config/mpv/mpv.conf",
+		"/home/tom/.config/mpv/input.conf",
+		"/home/tom/.config/alacritty/alacritty.toml.tac",
+		"/home/tom/.config/alacritty/alacritty.tomll",
+		"/home/tom/.config/alacritty/# Alacritty - TOML configuration file format..yaml",
+		"/home/tom/.local/bin/toggletouchpad.c",
+		"/home/tom/.local/bin/toggle-touchpad",
+		"/home/tom/.local/bin/toggle-touchpad.cpp",
+		"/home/tom/.config/gtk-4.0/gtk.css",
+		"/home/tom/.config/gtk-3.0/gtk.css",
+		"/home/tom/.config/mpv/# mpv-keybindings.conf",
+		"/run/media/tom/Storage/install-dev/printer_info.txt",
+		"/usr/share/doc/sxhkd/examples/notification/sxhkd_notify",
+		"/usr/share/doc/sxhkd/examples/background_shell/sxhkdrc",
+		"/home/tom/Documents/nomad.txt",
+		"/run/media/tom/Storage/PC/clevofan.txt",
+		"/run/media/tom/Storage/PC/lzh h66",
+		"/run/media/tom/Storage/PC/System76.TXT",
+		"/home/tom/Videos/--compat-options",
+		"/run/media/tom/Storage/PC/samba-setup.sh",
+		"/usr/share/doc/sxhkd/examples/background_shell/profile",
+		"/usr/share/doc/sxhkd/examples/background_shell/shell",
+		"/usr/share/doc/sxhkd/examples/background_shell/xinitrc",
+		"/home/tom/.config/user-dirs.dirs",
+		"/run/media/tom/Storage/install-dev/ezarch.uefi",
+		"/run/media/tom/Storage/ARCH INSTALLATION GUIDE.txt",
+		"/run/media/tom/Storage/lzh h66",
+		"/run/media/tom/Storage/wayland.txt",
+		"/run/media/tom/Storage/ffar.txt",
+		"/run/media/tom/Storage/youtubers.md",
+		"/home/tom/.config/alacritty/themes/Alabaster.toml",
+		"/usr/share/doc/mpv/input.conf",
+		"/home/tom/Downloads/tv.plex.PlexDesktop.flatpakref",
+		"/run/media/tom/Storage/install/install.sh",
+		"/home/tom/JXY P44",
+		"/run/media/tom/Storage/install/install-programs2.sh",
+		"/home/tom/.config/wikiman/wikiman.conf",
+		"/run/media/tom/Storage/install-dev/install-omni/install-omni.sh",
+		"/run/media/tom/Storage/install-dev/install-omni/install-omni-1.sh",
+		"/run/media/tom/Storage/install-dev/install-omni/install-omni-4.sh",
+		"/run/media/tom/Storage/install-dev/install-omni/install-omni-5.sh",
+		"/run/media/tom/Storage/install-dev/install-omni/install-omni-2.sh",
+		"/run/media/tom/Storage/install-dev/install-omni/install-omni-3.sh",
+		"/home/tom/Downloads/yamaha-dx7-easyedit-20250221.bpanelz",
+		"/home/tom/Downloads/event.ics"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4192,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1744574665,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			48.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/cargo.toml",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/Structure.txt",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/installation_instructions.txt",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/src/main.rs",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/stabilize.destop",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/PKGBUILD",
+				"/home/tom/dotfiles-bootstrap.sh",
+				"/home/tom/dotfiles/dotfiles-config-bootstrap.sh",
+				"/home/tom/dotfiles/stowify.sh",
+				"/home/tom/dotfiles/man/stowify.1",
+				"/home/tom/Linux-G15-Daemon-Logitech-G110-/g15daemon-1.9.5.3/Documentation/README.client_devel",
+				"/home/tom/warning.txt",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/install.sh",
+				"/run/media/tom/Storage/install/github-token.txt",
+				"/home/tom/Downloads/PKGBUILD",
+				"/home/tom/.bashrc",
+				"/home/tom/.bashrc-personal",
+				"/home/tom/.xbindkeysrc",
+				"/home/tom/.local/bin/GTK4-Stabilizer/install-stabilize.sh",
+				"/home/tom/.local/bin/GTK4-Stabilizer/StabilizePrompt.txt",
+				"/home/tom/.local/bin/stabilize.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/I want to build a GTK4 video stabilization app in.txt",
+				"/home/tom/.local/bin/GTK4-Stabilizer/main.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/stabilize.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/stabilize.h",
+				"/home/tom/.local/bin/GTK4-Stabilizer/utils.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/utils.h",
+				"/home/tom/.local/bin/GTK4-Stabilizer/install.sh",
+				"/home/tom/.local/bin/GTK4-Stabilizer/gtk4-stabilizer.desktop",
+				"/home/tom/programming/stabilize/gtk4_stabilizer/src/gtk4_stabilizer.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/install-instructions.txt",
+				"/home/tom/.local/share/applications/gtk4-stabilize.desktop",
+				"/home/tom/.local/bin/GTK4-Stabilizer/gtk4_stabilize.c",
+				"/home/tom/.local/bin/toggle-touchpad.sh",
+				"/home/tom/.config/alacritty/alacritty.toml",
+				"/home/tom/.local/bin/stable.sh",
+				"/home/tom/.local/bin/stabilize-zenity.c",
+				"/home/tom/.local/bin/stabilize-gtk.c",
+				"/mnt/870EVO500/nomad/nomad.txt",
+				"/mnt/870EVO500/Collect/vd/Big butt under a torn jeans skirt - watch on VoyeurHit.com. .trf",
+				"/home/tom/.local/bin/gtk4_stabilize.c",
+				"/home/tom/.local/share/applications/FFPWA-01JMK8NAXTR0KVQAFB94HXH424.desktop",
+				"/home/tom/.local/bin/gtk4_stabilizer/stabilize.c",
+				"/home/tom/.local/bin/gtk4_stabilizer/main.c",
+				"/home/tom/.local/bin/gtk4_stabilizer/gtk4_stabilize.c",
+				"/home/tom/.local/bin/gtk4_stabilizer/PKGBUILD",
+				"/home/tom/Videos/363K views · 3.5K reactions ｜ Sooo pretty girl slingshot ride #viralreelschallenge #foryoupage #kimkardashian #MeganFox #margotrobbie #JenniferLawrence #video #slingshot #Netflix #viralvideos ｜ Saba J-584342337956533.trf",
+				"/home/tom/.local/bin/stable1.sh",
+				"/home/tom/.local/bin/pics",
+				"/home/tom/.local/bin/toggle-touchpad.c",
+				"/home/tom/.config/alacritty/themes/Ashes.dark.toml",
+				"/home/tom/.config/feh/keys",
+				"/home/tom/.config/feh/buttons",
+				"/home/tom/.config/mpv/mpv-default-options.txt",
+				"/home/tom/.config/mpv/mpv.conf.example",
+				"/home/tom/.config/mpv/mpv.conf",
+				"/home/tom/.config/mpv/input.conf",
+				"/home/tom/.config/alacritty/alacritty.toml.tac",
+				"/home/tom/.config/alacritty/alacritty.tomll",
+				"/home/tom/.config/alacritty/# Alacritty - TOML configuration file format..yaml",
+				"/home/tom/.local/bin/toggletouchpad.c",
+				"/home/tom/.local/bin/toggle-touchpad",
+				"/home/tom/.local/bin/toggle-touchpad.cpp",
+				"/home/tom/.config/gtk-4.0/gtk.css",
+				"/home/tom/.config/gtk-3.0/gtk.css",
+				"/home/tom/.config/mpv/# mpv-keybindings.conf",
+				"/run/media/tom/Storage/install-dev/printer_info.txt",
+				"/usr/share/doc/sxhkd/examples/notification/sxhkd_notify",
+				"/usr/share/doc/sxhkd/examples/background_shell/sxhkdrc",
+				"/home/tom/Documents/nomad.txt",
+				"/run/media/tom/Storage/PC/clevofan.txt",
+				"/run/media/tom/Storage/PC/lzh h66",
+				"/run/media/tom/Storage/PC/System76.TXT",
+				"/home/tom/Videos/--compat-options",
+				"/run/media/tom/Storage/PC/samba-setup.sh",
+				"/usr/share/doc/sxhkd/examples/background_shell/profile",
+				"/usr/share/doc/sxhkd/examples/background_shell/shell",
+				"/usr/share/doc/sxhkd/examples/background_shell/xinitrc",
+				"/home/tom/.config/user-dirs.dirs",
+				"/run/media/tom/Storage/install-dev/ezarch.uefi",
+				"/run/media/tom/Storage/ARCH INSTALLATION GUIDE.txt",
+				"/run/media/tom/Storage/lzh h66",
+				"/run/media/tom/Storage/wayland.txt",
+				"/run/media/tom/Storage/ffar.txt",
+				"/run/media/tom/Storage/youtubers.md",
+				"/home/tom/.config/alacritty/themes/Alabaster.toml",
+				"/usr/share/doc/mpv/input.conf",
+				"/home/tom/Downloads/tv.plex.PlexDesktop.flatpakref",
+				"/run/media/tom/Storage/install/install.sh",
+				"/home/tom/JXY P44",
+				"/run/media/tom/Storage/install/install-programs2.sh",
+				"/home/tom/.config/wikiman/wikiman.conf",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-1.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-4.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-5.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-2.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-3.sh",
+				"/home/tom/Downloads/yamaha-dx7-easyedit-20250221.bpanelz",
+				"/home/tom/Downloads/event.ics"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/home/tom",
+					"quit",
+					"loop_quit",
+					"g_main_loop_quit",
+					"window",
+					"mouse",
+					"exit",
+					"volume",
+					"shift",
+					"volume",
+					"/mnt/BulkDataNTFS/Transfer/Collect/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"~",
+					"/mnt/870EVO500/Collect/"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 156.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/tom/.local/bin/GTK4-Stabilizer/Rust/Structure.txt",
+					"settings":
+					{
+						"buffer_size": 130,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAggAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/cargo.toml",
+					"settings":
+					{
+						"buffer_size": 228,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAA5AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "Packages/C++/C Single File.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/installation_instructions.txt",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/src/main.rs",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/stabilize.destop",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/PKGBUILD",
+				"/home/tom/dotfiles-bootstrap.sh",
+				"/home/tom/dotfiles/dotfiles-config-bootstrap.sh",
+				"/home/tom/dotfiles/stowify.sh",
+				"/home/tom/dotfiles/man/stowify.1",
+				"/home/tom/Linux-G15-Daemon-Logitech-G110-/g15daemon-1.9.5.3/Documentation/README.client_devel",
+				"/home/tom/warning.txt",
+				"/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/install.sh",
+				"/run/media/tom/Storage/install/github-token.txt",
+				"/home/tom/Downloads/PKGBUILD",
+				"/home/tom/.bashrc",
+				"/home/tom/.bashrc-personal",
+				"/home/tom/.xbindkeysrc",
+				"/home/tom/.local/bin/GTK4-Stabilizer/install-stabilize.sh",
+				"/home/tom/.local/bin/GTK4-Stabilizer/StabilizePrompt.txt",
+				"/home/tom/.local/bin/stabilize.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/I want to build a GTK4 video stabilization app in.txt",
+				"/home/tom/.local/bin/GTK4-Stabilizer/main.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/stabilize.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/stabilize.h",
+				"/home/tom/.local/bin/GTK4-Stabilizer/utils.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/utils.h",
+				"/home/tom/.local/bin/GTK4-Stabilizer/install.sh",
+				"/home/tom/.local/bin/GTK4-Stabilizer/gtk4-stabilizer.desktop",
+				"/home/tom/programming/stabilize/gtk4_stabilizer/src/gtk4_stabilizer.c",
+				"/home/tom/.local/bin/GTK4-Stabilizer/install-instructions.txt",
+				"/home/tom/.local/share/applications/gtk4-stabilize.desktop",
+				"/home/tom/.local/bin/GTK4-Stabilizer/gtk4_stabilize.c",
+				"/home/tom/.local/bin/toggle-touchpad.sh",
+				"/home/tom/.config/alacritty/alacritty.toml",
+				"/home/tom/.local/bin/stable.sh",
+				"/home/tom/.local/bin/stabilize-zenity.c",
+				"/home/tom/.local/bin/stabilize-gtk.c",
+				"/mnt/870EVO500/nomad/nomad.txt",
+				"/mnt/870EVO500/Collect/vd/Big butt under a torn jeans skirt - watch on VoyeurHit.com. .trf",
+				"/home/tom/.local/bin/gtk4_stabilize.c",
+				"/home/tom/.local/share/applications/FFPWA-01JMK8NAXTR0KVQAFB94HXH424.desktop",
+				"/home/tom/.local/bin/gtk4_stabilizer/stabilize.c",
+				"/home/tom/.local/bin/gtk4_stabilizer/main.c",
+				"/home/tom/.local/bin/gtk4_stabilizer/gtk4_stabilize.c",
+				"/home/tom/.local/bin/gtk4_stabilizer/PKGBUILD",
+				"/home/tom/Videos/363K views · 3.5K reactions ｜ Sooo pretty girl slingshot ride #viralreelschallenge #foryoupage #kimkardashian #MeganFox #margotrobbie #JenniferLawrence #video #slingshot #Netflix #viralvideos ｜ Saba J-584342337956533.trf",
+				"/home/tom/.local/bin/stable1.sh",
+				"/home/tom/.local/bin/pics",
+				"/home/tom/.local/bin/toggle-touchpad.c",
+				"/home/tom/.config/alacritty/themes/Ashes.dark.toml",
+				"/home/tom/.config/feh/keys",
+				"/home/tom/.config/feh/buttons",
+				"/home/tom/.config/mpv/mpv-default-options.txt",
+				"/home/tom/.config/mpv/mpv.conf.example",
+				"/home/tom/.config/mpv/mpv.conf",
+				"/home/tom/.config/mpv/input.conf",
+				"/home/tom/.config/alacritty/alacritty.toml.tac",
+				"/home/tom/.config/alacritty/alacritty.tomll",
+				"/home/tom/.config/alacritty/# Alacritty - TOML configuration file format..yaml",
+				"/home/tom/.local/bin/toggletouchpad.c",
+				"/home/tom/.local/bin/toggle-touchpad",
+				"/home/tom/.local/bin/toggle-touchpad.cpp",
+				"/home/tom/.config/gtk-4.0/gtk.css",
+				"/home/tom/.config/gtk-3.0/gtk.css",
+				"/home/tom/.config/mpv/# mpv-keybindings.conf",
+				"/run/media/tom/Storage/install-dev/printer_info.txt",
+				"/usr/share/doc/sxhkd/examples/notification/sxhkd_notify",
+				"/usr/share/doc/sxhkd/examples/background_shell/sxhkdrc",
+				"/home/tom/Documents/nomad.txt",
+				"/run/media/tom/Storage/PC/clevofan.txt",
+				"/run/media/tom/Storage/PC/lzh h66",
+				"/run/media/tom/Storage/PC/System76.TXT",
+				"/home/tom/Videos/--compat-options",
+				"/run/media/tom/Storage/PC/samba-setup.sh",
+				"/usr/share/doc/sxhkd/examples/background_shell/profile",
+				"/usr/share/doc/sxhkd/examples/background_shell/shell",
+				"/usr/share/doc/sxhkd/examples/background_shell/xinitrc",
+				"/home/tom/.config/user-dirs.dirs",
+				"/run/media/tom/Storage/install-dev/ezarch.uefi",
+				"/run/media/tom/Storage/ARCH INSTALLATION GUIDE.txt",
+				"/run/media/tom/Storage/lzh h66",
+				"/run/media/tom/Storage/wayland.txt",
+				"/run/media/tom/Storage/ffar.txt",
+				"/run/media/tom/Storage/youtubers.md",
+				"/home/tom/.config/alacritty/themes/Alabaster.toml",
+				"/usr/share/doc/mpv/input.conf",
+				"/home/tom/Downloads/tv.plex.PlexDesktop.flatpakref",
+				"/run/media/tom/Storage/install/install.sh",
+				"/home/tom/JXY P44",
+				"/run/media/tom/Storage/install/install-programs2.sh",
+				"/home/tom/.config/wikiman/wikiman.conf",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-1.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-4.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-5.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-2.sh",
+				"/run/media/tom/Storage/install-dev/install-omni/install-omni-3.sh",
+				"/home/tom/Downloads/yamaha-dx7-easyedit-20250221.bpanelz",
+				"/home/tom/Downloads/event.ics"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/home/tom",
+					"quit",
+					"loop_quit",
+					"g_main_loop_quit",
+					"window",
+					"mouse",
+					"exit",
+					"volume",
+					"shift",
+					"volume",
+					"/mnt/BulkDataNTFS/Transfer/Collect/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"~",
+					"/mnt/870EVO500/Collect/"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/tom/.local/bin/GTK4-Stabilizer/Rust/Structure.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										130,
+										130
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/tom/.local/bin/GTK4-Stabilizer/Rust/stabilize/cargo.toml",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 228,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										228,
+										228
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/TOML/TOML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 156.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1920,1024,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

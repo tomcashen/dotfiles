@@ -1,0 +1,44 @@
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/bl</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/cl</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/db</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ef</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ex</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/md</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/mv</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/nd</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/pl</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/PR</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ps</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/ss</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/st</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/us</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/vy</command>
+<command>mv -f t /mnt/BulkDataNTFS/Transfer/Collect/vd/yg</command>
+
+<name>To bl</name>
+<name>To cl</name>
+<name>To db</name>
+<name>To ef</name>
+<name>To ex</name>
+<name>To md</name>
+<name>To mv</name>
+<name>To nd</name>
+<name>To pl</name>
+<name>To PR</name>
+<name>To ps</name>
+<name>To ss</name>
+<name>To st</name>
+<name>To us</name>
+<name>To vy</name>
+<name>To yg</name>
+
+
+<action>
+	<icon>/home/tom/.config/Thunar/icons/Arrow.png</icon>
+	<name>To sf</name>
+	<unique-id>1616434771945127-6</unique-id>
+	<command>mv -f t %F /mnt/BulkDataNTFS/Transfer/Collect/sf</command>
+	<description>Move files To sf</description>
+	<patterns>*</patterns>
+	<image-files/>
+</action>

@@ -1,0 +1,11 @@
+{
+	"font_size": 17,
+	"color_scheme": "Packages/Color Scheme - Chromodynamics/Chromodynamics.tmTheme",
+	"dark_color_scheme": "Celeste.sublime-color-scheme",
+	"light_color_scheme": "Celeste.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+}

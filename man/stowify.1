@@ -1,0 +1,73 @@
+.TH STOWIFY 1 "April 2025" "version 1.0" "User Commands"
+.SH NAME
+stowify \- Backup, relocate, and stow dotfiles and system files
+.SH SYNOPSIS
+.B stowify.sh
+[\fIFILES...\fR]
+.br
+.B stowify.sh
+[\fB\-\-undo\fR]
+.SH DESCRIPTION
+.B stowify
+is a standalone Bash script designed to help users manage dotfiles
+and system configuration files using GNU Stow. It automates the process of:
+
+- Backing up files before moving
+- Structuring them into stow-compatible modules
+- Linking them back using stow
+- Logging all activity for later restore
+.SH OPTIONS
+.TP
+.B FILES...
+One or more absolute paths to files or directories to be stowified.
+.TP
+.B \-\-undo
+Restores all previously stowed files from the latest backup and removes
+symlinks by unstowing the corresponding modules.
+.SH FEATURES
+- Supports both user and system files
+- Backs up originals to \fI~/dotfiles_backup/TIMESTAMP/\fR
+- Stores modules in \fI~/dotfiles/MODULENAME/\fR
+- Creates symlinks with stow or sudo stow as appropriate
+- Logs stow operations in \fI~/dotfiles/stow_targets.txt\fR
+- Detects duplicates and skips already-stowed modules
+- Supports Thunar custom actions
+- GUI feedback via \fIzenity\fR (optional)
+- Desktop notifications via \fInotify-send\fR (optional)
+.SH USAGE EXAMPLES
+.EX
+# Stowify a file
+$ stowify.sh ~/.bashrc
+
+# Stowify multiple files
+$ stowify.sh ~/.vimrc ~/.local/bin/mytool /usr/share/pixmaps/icon.png
+
+# Undo last stowify session
+$ stowify.sh --undo
+.EE
+.SH FILES
+.TP
+\fI~/dotfiles/\fR
+Base directory for all modules
+.TP
+\fI~/dotfiles_backup/\fR
+Timestamped backups of original files
+.TP
+\fI~/dotfiles/stow_targets.txt\fR
+Tracks all stowified modules and destinations
+.TP
+\fI~/bin/stowify.sh\fR
+The script itself
+.SH EXIT STATUS
+0  on success
+.br
+1  if an error occurs or file not found
+.SH SEE ALSO
+.BR stow (1),
+.BR zenity (1),
+.BR notify-send (1)
+.SH AUTHOR
+Developed by Tom Cashen with the help of ChatGPT.
+Inspired by the simplicity of GNU Stow and the power of modular configuration.
+.SH COPYRIGHT
+MIT License. Use freely and modify at will.

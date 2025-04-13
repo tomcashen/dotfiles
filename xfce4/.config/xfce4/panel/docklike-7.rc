@@ -1,0 +1,10 @@
+[user]
+pinned=simplescreenrecorder;media-downloader;xfce-settings-manager;Alacritty;ranger;FFPWA-01JMK8NAXTR0KVQAFB94HXH424;freetube;sublime_text;xfce4-terminal;thunar;google-chrome;firefox;
+showPreviews=true
+showWindowCount=true
+forceIconSize=true
+indicatorStyle=2
+inactiveIndicatorStyle=2
+indicatorOrientation=1
+indicatorColorFromTheme=false
+middleButtonBehavior=1
